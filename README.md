@@ -1,0 +1,1 @@
+# allure_for_sonic_tests
